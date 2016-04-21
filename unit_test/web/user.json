@@ -1,0 +1,12 @@
+{
+    "birthdate": "1967-03-04",
+    "email": "email@provider.organization",
+    "name": "name",
+    "phone": "000000000000",
+    "surname": "surname",
+    "timezone": "Europe/Athens",
+    "uid": "999999999934425",
+    "medstaffID": "kostas-papad",
+    "profile": "Profile description",
+    "treatment": "Treatment description"
+}

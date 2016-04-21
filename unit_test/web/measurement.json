@@ -1,0 +1,23 @@
+{
+    "contextElements": 
+    [
+        {
+            "type": "Patient",
+            "isPattern": "false",
+            "id": "999999999934425",
+            "attributes": [
+            {
+                "name": "Body temperature",
+                "type": "C",
+                "value": "42.6"
+            },
+            {
+            	"name" : "timestamp",
+        		"type" : "Europe/Athens",
+        		"value" : "2015-02-24 14:05:34"
+            }
+            ]
+        }
+    ],
+    "updateAction": "APPEND"
+}
